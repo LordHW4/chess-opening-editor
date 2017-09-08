@@ -1,0 +1,1 @@
+# chess-opening-editor
